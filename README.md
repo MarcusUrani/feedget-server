@@ -12,7 +12,7 @@ Back-end criado para a aplicação [Feedget](https://github.com/feedget).
 
 - Prisma <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png">
 
-- Express.js <img align="center" alt="Marcus-Ts" height="30" width="60" src="https://expressjs.com/images/express-facebook-share.png">
+- Express.js <img align="center" alt="Marcus-Ts" height="30" width="75" src="https://expressjs.com/images/express-facebook-share.png">
 
 - Jest <img align="center" alt="Marcus-Ts" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
 
