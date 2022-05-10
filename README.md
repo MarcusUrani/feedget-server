@@ -14,4 +14,10 @@ Backend criado para a aplicação [Feedget](https://github.com/feedget).
 
 - PostgreSQL <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
-- Prisma <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+- Prisma
+
+- Express.js <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expressjs/expressjs-original.svg">
+
+- Jest <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg">
+
+- NodeMailer
