@@ -2,10 +2,6 @@
 
 Back-end criado para a aplicação [Feedget](https://github.com/feedget).
 
-<div align="center">
-    <img src="https://imgur.com/BnBnw5S.png" alt="Feedget em funcionamento na página">
-</div>
-
 ## 🛠 Tecnologias utilizadas
 
 - TypeScript <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -14,13 +10,13 @@ Back-end criado para a aplicação [Feedget](https://github.com/feedget).
 
 - PostgreSQL <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
-- Prisma
+- Prisma <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png">
 
-- Express.js
+- Express.js <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://expressjs.com/images/express-facebook-share.png">
 
-- Jest
+- Jest <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
 
-- NodeMailer
+- NodeMailer <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://nodemailer.com/nm_logo_200x136.png">
 
 ## ✅ Etapas de desenvolvimento
 
@@ -36,9 +32,9 @@ Back-end criado para a aplicação [Feedget](https://github.com/feedget).
 
 ## 🚀 Como integrar a aplicação no seu projeto
 
-- Faça uma requisição(Fetch, axios ou outra biblioteca) do tipo post na URL(https://feedget-server-one.up.railway.app/feedbacks).
+- Faça uma requisição(Fetch, axios ou outra biblioteca) do tipo post na rota /feedbacks.
 
-- Na requisição envie um objeto com type, comment e screenshot.
+- Envie um objeto com type, comment e screenshot.
 
 ## 🙋🏻‍♂️ Autor
 
