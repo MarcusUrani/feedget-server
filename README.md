@@ -40,5 +40,5 @@ Back-end criado para a aplicação [Feedget](https://github.com/feedget).
 
 - Marcus Vinícius Gomes Urani
 - [Portfólio](https://marcusurani.netlify.app)
-- <a href="https://www.linkedin.com/in/marcus-urani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/marcusurani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - <a href = "mailto:marcus.urani20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
